@@ -16,3 +16,8 @@ def hello(to="world"):
 
 main() # calling whichever function you want to run
 """
+def main():
+    print ("Hello, world")
+    print("Python is fun!")
+
+main()
